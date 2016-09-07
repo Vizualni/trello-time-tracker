@@ -1,7 +1,6 @@
 KEY = ''
 TOKEN = ''
 
-BOARD_NAME = ''
 CARD_NAME = ''
 BOARD = ''
 
